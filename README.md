@@ -1,4 +1,3 @@
-#### Jatinegara Barat Student 
 ```go
 package main
 
@@ -8,7 +7,7 @@ func main() {
     app := fiber.New()
 
     app.Get("/", func(c *fiber.Ctx) error {
-        return c.SendString("Hello, World 👋!")
+        return c.SendString("Student 👋🏽!")
     })
 
     app.Listen(":3000")
