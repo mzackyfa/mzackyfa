@@ -1,4 +1,4 @@
-#### Jatinegara Barat Student 🕊️
+#### Jatinegara Barat Student 
 ```go
 package main
 
