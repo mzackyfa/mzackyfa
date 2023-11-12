@@ -1,2 +1,4 @@
 ### Jatinegara Barat Student 🕊️
-"Self-learning programming through online resources for quick adaptation to technological advancements."
+###
+#### where?
+"Jatinegara Barat is a neighborhood located in East Jakarta, Indonesia. It's known for its diverse community and various facilities, including schools, markets, and residential areas."
