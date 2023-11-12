@@ -2,7 +2,7 @@
 ```go
 package main
 
-import "github.com/zahsey"
+import "github.com/zahsey/zahsey"
 
 func main() {
     app := fiber.New()
