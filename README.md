@@ -4,7 +4,6 @@ ________
 ________________________________
 Ingfo® Tempat Mancing Terdekat
 ____________________
-_________
+Copyright 2023 © Zahsey
 __
-___Copyright 2023 © Zahsey___
 ```
