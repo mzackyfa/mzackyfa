@@ -5,5 +5,5 @@ ________________________________
 Ingfo® Tempat Mancing Terdekat
 ____________________
 _________
-__
+__ Copyright 2023 © Zahsey
 ```
