@@ -10,14 +10,14 @@ Here are some ideas to get you started:
 # 💬 Ask me about Tech
 # 😄 Pronouns: zahsey 🕊
 -->
-
+#
 ### 🌱 I’m currently learning Full Stack
-# ______________________________________>
+#
 ### 👯 I’m looking to collaborate on Discord
-# __________________________________________>
+# 
 ### 💬 Ask me about Tech
-# _______________________>
+#
 ### 😄 Pronouns: zahsey 🕊
-_________________________>
+#
 
 ## Thank You For Coming 🤟
