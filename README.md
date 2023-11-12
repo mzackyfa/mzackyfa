@@ -1,6 +1,6 @@
 #### Jatinegara Barat Student 🕊️
 ```diff
--package- main
+-package main
 
 import "github.com/zahsey"
 
