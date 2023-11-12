@@ -1,3 +1,5 @@
 ```go
-Beginner
+____________________________
+Sadness® Is Not Competition
+_______________
 ```
