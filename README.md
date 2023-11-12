@@ -1,3 +1,3 @@
 ```go
-Junior
+Beginner
 ```
