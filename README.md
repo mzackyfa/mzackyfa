@@ -1,5 +1,5 @@
 #### Jatinegara Barat Student 🕊️
-<pre>
+```diff
 -package- main
 
 import "github.com/zahsey"
@@ -13,4 +13,4 @@ func main() {
 
     app.Listen(":3000")
 }
-</pre>
+```
