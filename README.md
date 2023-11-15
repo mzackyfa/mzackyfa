@@ -2,7 +2,7 @@
 _____
 ___________
 _________________
-® One for all
+® Welcome my homies
 _______________________
 Copyright 2023 © Zahsey
 ___            ________
