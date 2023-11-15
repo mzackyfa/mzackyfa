@@ -2,7 +2,7 @@
 __
 ________
 ________________________________
-Ingfo® Tempat Mancing Terdekat
+® One for all
 ____________________
 Copyright 2023 © Zahsey
 __
