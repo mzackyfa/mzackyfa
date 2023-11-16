@@ -1,11 +1,7 @@
-<br clear="both">
-
-<h2 align="center">Hi 👋! My name is mzackyfa and I'm a student, from indonesia.</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
