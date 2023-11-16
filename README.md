@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">What's Good 👋</h1>
+<h3 align="center">What's Good 👋</h3>
 
 ###
 
