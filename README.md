@@ -1,7 +1,7 @@
 
 ### 
 
-<h3 align="center">🦜I'm currently learning programming <//h3>
+<h3 align="center">currently learning programming 👱‍♂️ <//h3>
 
 ###
 
