@@ -1,7 +1,7 @@
 
 ### 
 
-<h5 align="center">currently learning programming <//h5>
+<h5 align="center">I'm currently learning programming <//h5>
 
 ###
 
